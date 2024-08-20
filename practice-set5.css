@@ -1,0 +1,20 @@
+
+.parents{
+    height: 100vh;
+    width: 100vw;
+    border-radius: 10px;
+    border: 10px dotted red;
+    background-color: cyan;
+    position: relative;
+    /* box-sizing: border-box; */
+}
+.innerDiv{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    text-align: center;
+    border-radius: 10px;
+    position: sticky;
+    left:100px ;
+    top: 10px;
+}
